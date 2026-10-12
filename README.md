@@ -40,8 +40,6 @@ The diagram must show: user-facing parts, our services, data stores; every exter
 name and version; where prompts and model config live; direction of data flow; a marked boundary
 showing which data leaves our system and to whom; how secrets are handled. -->
 
-![Architecture](docs/architecture.png)
-
 TODO
 
 ## 5. AI components
