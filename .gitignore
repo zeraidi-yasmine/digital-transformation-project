@@ -1,0 +1,19 @@
+# Raw restaurant menus (HTML/PDF): not ours to publish, and too large
+data/raw/
+
+# Secrets (API keys) — commit .env.example instead
+.env
+
+# IDE settings
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
